@@ -1,18 +1,9 @@
-<<<<<<< HEAD
-printf("Hello world!\n");
-=======
-printf("hello world\n");
->>>>>>> helloworld
+#include <stdio.h>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 int main(void)
-=======
-int main()
->>>>>>> main
 {
-//output the famous hello world message
-  printf("Hello World!\n");
+    // output the famous hello world message
+    printf("Hello world!\n");
+    return 0;
 }
-=======
->>>>>>> Added comment to helloworld.c
+
