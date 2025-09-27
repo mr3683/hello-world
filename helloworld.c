@@ -1,4 +1,7 @@
-git add helloworld.c
-git commit -m "Updated hello world"
-git log --oneline
+#include <stdio.h>
 
+int main()
+{
+//output the famous hello world message
+  printf("Hello World!\n");
+}
