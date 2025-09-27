@@ -1,6 +1,8 @@
-git add helloworld.c
-git commit -m "Updated hello world"
-git log --oneline
+<<<<<<< HEAD
+printf("Hello world!\n");
+=======
+printf("hello world\n");
+>>>>>>> helloworld
 
 <<<<<<< HEAD
 int main(void)
