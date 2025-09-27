@@ -5,10 +5,14 @@ printf("hello world\n");
 >>>>>>> helloworld
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 int main(void)
+=======
+int main()
+>>>>>>> main
 {
-  printf("Hello, World!\n");
-  return 0;
+//output the famous hello world message
+  printf("Hello World!\n");
 }
 =======
 >>>>>>> Added comment to helloworld.c
